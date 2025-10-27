@@ -1,0 +1,25 @@
+FoxFuel_KFactor_Optimizer/
+├── src/
+│   ├── data_loader.py
+│   ├── interval_builder.py
+│   ├── kfactor_calculator.py
+│   ├── governance.py
+│   ├── pipeline.py
+│   ├── logger.py
+│   ├── config.py
+│   ├── outputs_writer.py
+│   └── __init__.py
+├── data/
+│   ├── inputs/
+│   └── outputs/
+├── docs/
+│   ├── USER_GUIDE.md
+│   └── CHANGELOG.md
+├── tests/
+│   ├── test_intervals.py
+│   ├── test_governance.py
+│   ├── test_variance.py
+│   └── test_kfactor_optimizer.py
+├── run_local.py
+├── requirements.txt
+└── README.md

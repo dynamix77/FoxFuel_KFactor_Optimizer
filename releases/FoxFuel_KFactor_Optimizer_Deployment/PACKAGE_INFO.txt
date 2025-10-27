@@ -1,0 +1,24 @@
+FoxFuel K-Factor Optimizer - Deployment Package
+Generated: 2025-10-27 08:37:24
+
+Package Contents:
+- FoxFuel_KFactor_Optimizer.exe (320.9 MB)
+- INSTALL.bat (Automated installer)
+- RUN_GUI.bat (Simple launcher)
+- FoxFuel_KFactor_User_Guide.md (User manual)
+- README.md (Quick reference)
+- INSTALLATION_GUIDE.md (Installation instructions)
+- data/ folder structure
+
+Installation Instructions:
+1. Extract this package to a folder on the target computer
+2. Run INSTALL.bat as administrator
+3. Place CSV files in data/inputs/ folder
+4. Run FoxFuel_KFactor_Optimizer.exe
+
+System Requirements:
+- Windows 10 or later
+- 500 MB free disk space
+- No Python installation required
+
+For support, refer to INSTALLATION_GUIDE.md
